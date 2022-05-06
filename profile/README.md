@@ -1,12 +1,9 @@
-## Hi there 👋
+# ✨ Supernatural ✨
 
-<!--
+A creative agency where humans and machines play together to make wildly original ideas that no human and no machine could create alone.
 
-**Here are some ideas to get you started:**
+If you are interested in integrating new technologies, like AI and machine learning, to accelerate marketing strategic, creative, and production processes - drop us an email!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+info@besupernatural.com
+
+http://www.besupernatural.com/
