@@ -1,9 +1,7 @@
-# ✨ Supernatural ✨
+# ✨ Supernatural AI ✨
 
-A creative agency where humans and machines play together to make wildly original ideas that no human and no machine could create alone.
+At Supernatural AI, we combine human ingenuity and judgment with AI power and insights.
 
-If you are interested in integrating new technologies, like AI and machine learning, to accelerate marketing strategic, creative, and production processes - drop us an email!
+If you are interested in integrating new technologies, like AI and machine learning, to accelerate marketing strategic, creative, and production processes - get in touch!
 
-info@besupernatural.com
-
-http://www.besupernatural.com/
+http://www.gosupernatural.ai/
