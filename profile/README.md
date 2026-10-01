@@ -1,7 +1,5 @@
-# ✨ Supernatural AI ✨
+# Supergood
 
-At Supernatural AI, we combine human ingenuity and judgment with AI power and insights.
+Supergood is an ad agency staffed by real human talent and super smart AI. We work 2× faster and 2× more effectively than traditional agencies to produce work that is beyond just good.
 
-If you are interested in integrating new technologies, like AI and machine learning, to accelerate marketing strategic, creative, and production processes - get in touch!
-
-http://www.gosupernatural.ai/
+http://www.gosupergood.com/
